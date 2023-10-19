@@ -1,0 +1,12 @@
+name: metagenomic_1
+channels:
+   - bioconda
+   - conda-forge
+dependencies:
+   - python=3.9
+   - nwalign3=0.1.2
+   - pytest=7.4.2
+   - pylint=3.0.1
+   - pytest-cov=4.1.0
+   - numpy=1.26.0
+   - vsearch=2.23.0
